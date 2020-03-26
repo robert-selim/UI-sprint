@@ -27,3 +27,19 @@
   text-decoration: none;
   color: white;
 }
+
+.btn-facebook {
+  color: black;
+  background:white;
+  border: 1px solid #999999;
+  padding: 10px 15px;
+  font-weight: bold;
+  opacity: 1;
+  text-decoration: none;
+}
+.btn-facebook:hover {
+  opacity: 1;
+  background: grey;
+  text-decoration: none;
+  color: black;
+}
